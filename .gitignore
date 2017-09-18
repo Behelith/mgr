@@ -3,6 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+!imageComparison.vcxproj.user
+
 # User-specific files
 *.suo
 *.user
@@ -20,7 +22,7 @@
 x64/
 x86/
 bld/
-[Bb]in/
+[B]in/
 [Oo]bj/
 [Ll]og/
 
